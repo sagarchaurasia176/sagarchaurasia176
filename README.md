@@ -19,7 +19,10 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sagarchaurasia74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarchaurasia74/" height="30" width="40"></a>
 </p>
- 
+<br><br>
+
+
+
 <h3 align="left">Languages and Tools:</h3><br><br>
 
 <p align="left"> 
@@ -35,4 +38,9 @@ alt="css3" width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
  
  
+
+ 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarchaurasia176&" alt="sagarchaurasia176" /></p>
+
  
