@@ -1,4 +1,4 @@
- ![logo](https://github.com/sagarchaurasia176/sagar387/blob/main/Passionate%20Learner.png)
+ ![logo](https://github.com/sagarchaurasia176/sagarchaurasia176/blob/main/Passionate%20Learner.png)
 
 <h1 align="center">Hi 👋, I'm Sagar Chaurasia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
