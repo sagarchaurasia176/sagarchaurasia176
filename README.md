@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Chaurasia</h1>
 <h3 align="center">A passionate  Developer</h3>
 <hr>
-<img        
-src=
-     "https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" width="500px" align="right">
+
 <br><br>
  # 💫 About Me:
  🔭 I’m currently Study In Computer Science Engineering <br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with web Designing<br>🌱 I’m currently learning React JS<br>💬 Ask me about Designing || Program Logics<br>
