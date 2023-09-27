@@ -2,7 +2,7 @@
 <h3 align="center">A passionate  Developer</h3>
 <hr>
 <br><br>
- # 💫 About Me:
+  💫 About Me:
  <br>
 🔭 I’m currently studying Computer Science Engineering<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m currently learning backend Principles in dev<br>💬 Ask me about Designing || Program Logics || development
 
