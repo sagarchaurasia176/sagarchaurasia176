@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<h2 align="center">✨ Always eager to enhance my knowledge, collaborate with people and make projects<br><br>-----------------------------------------------------------------------<br> <br>📚 What's Special About me?<br>❤️I love to take Challenges [200Days MERN STACK CHALLENGE DONE]<br>-----------------------------------------------------------------------</p>
+<h2 align="center">✨ Always eager to enhance my knowledge, collaborate with people and make projects<br><br>-----------------------------------------------------------------------<br> <br>📚 What's Special About me?<br>❤️I love to take Challenges [200Days MERN STACK CHALLENGE DONE]<br>------------------------------------------------------------------------------</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
