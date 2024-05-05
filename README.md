@@ -1,8 +1,8 @@
-<h2 align="left">A Passionate Web Developer</h2>
+<h1 align="text-center">A Passionate Web Developer</h2>
 
 ###
 
-<p align="left">I am a passionate Programmer and Developer whose target is to convert the thought process into a program and build the craziest things</p>
+<p align="text-center">I am a passionate Programmer and Developer whose target is to convert the thought process into a program and build the craziest things</p>
 
 ###
 
