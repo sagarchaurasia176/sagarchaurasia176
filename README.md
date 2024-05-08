@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h6 align="center">I am a passionate Programmer and Developer whose target is to convert the thought process into a program and build the craziest things</h6>
+<h2 align="center">I am a passionate Programmer and Developer whose target is to convert the thought process into a program and build the craziest things</h2>
 
 ###
 
