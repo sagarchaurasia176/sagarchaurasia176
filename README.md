@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Languages</h2>
+<h2 align="left">Language</h2>
 
 ###
 
