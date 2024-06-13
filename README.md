@@ -1,4 +1,4 @@
- <h2 align="center">Change The World with My Crazy Ideas</h2>
+ <h2 align="center">Building Software to Solve Real-world Problems </h2>
 
 ###
 
