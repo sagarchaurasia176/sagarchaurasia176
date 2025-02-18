@@ -1,4 +1,6 @@
- <h2 align="center">Building Software to Solve Real-world Problems </h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7E3&width=435&lines=Building+Software+to+Solve+Real-world+Problems!;Passionate+Programmer+and+Developer!;Transforming+Ideas+into+Reality!" alt="Typing SVG" />
+</div>
 
 ###
 
