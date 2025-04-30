@@ -6,7 +6,7 @@
 
 <p align="center">
   <em> 
-  An aspiring software engineer with the ability to grow as an individual and learn in the surrounding of talented people. I am always open for discussions
+  An aspiring software engineer with the ability to grow as an individual and learn in the presence of talented people. I am always open to discussions
   </em>
 </p>
 
