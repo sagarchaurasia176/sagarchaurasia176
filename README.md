@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm a Problem Solver & Full-Stack Developer</h1>
 
 <p align="center">
-  <em>Crafting elegant solutions through code, one challenge at a time</em>
+  <em> 
+  An aspiring software engineer with the ability to grow as an individual and learn in the surrounding of talented people. I am always open for discussions
+  </em>
 </p>
 
 <div align="center">
@@ -28,23 +30,23 @@ type Developer = {
 };
 
 const me: Developer = {
-  name: "Your Name",
+  name: "Sagar Chaurasia",
   education: {
     current: "B.Tech in Computer Science & Engineering (2023-2026) - 8.49 GPA",
-    previous: "Diploma in Computer Science (Graduated 2023)"
+    previous: "Diploma in Computer Science & Engineering (2020-2023)"
   },
-  passions: ["Problem Solving", "Web Development", "DSA", "Building Developer Tools"],
+  passions: ["Problem Solving", "Web Development", "DSA", "Building Chrome extensions", "Scalable System"],
   languages: ["JavaScript", "TypeScript", "Java"],
   currentFocus: "Creating tools that enhance developer productivity",
   lifeMotto: "Code not just to build, but to solve real problems"
 };
 ```
 
-My journey into the world of programming began during my diploma studies, where I discovered my true passion for coding. What started as curiosity quickly evolved into a deep love for solving complex problems and building useful applications.
+➡️ My programming journey began during my diploma studies, where I discovered my true passion for coding. What started as curiosity quickly evolved into a deep love for solving complex problems and building useful applications.
 
-As a developer who believes in continuous learning, I've dedicated myself to mastering both frontend and backend technologies. My approach combines analytical thinking with creative problem-solving to develop elegant solutions that make a difference.
+➡️ As a developer who believes in continuous learning, I've dedicated myself to mastering both frontend and backend technologies. My approach combines analytical thinking with creative problem-solving to develop elegant solutions that make a difference.
 
-Currently pursuing my B.Tech in Computer Science and Engineering (2023-2026) with an 8.49 GPA aggregate, I balance academic excellence with practical, real-world development experience.
+➡️ Currently pursuing my B.Tech in Computer Science and Engineering (2023-2026) with an 8.49 GPA aggregate, I balance academic excellence with practical, real-world development experience.
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -83,8 +85,6 @@ Currently pursuing my B.Tech in Computer Science and Engineering (2023-2026) wit
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
 </p>
 
 ### 🚀 DevOps & Cloud
@@ -102,7 +102,6 @@ Currently pursuing my B.Tech in Computer Science and Engineering (2023-2026) wit
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 <div align="center">
@@ -113,40 +112,34 @@ Currently pursuing my B.Tech in Computer Science and Engineering (2023-2026) wit
 
 ### 🧠 Dr-Buddy – DSA Revision Buddy
 <p align="left">
-  <a href="https://chrome.google.com/webstore/detail/your-extension-id" target="_blank">
+  <a href="https://drbuddy.dev-saga.in" target="_blank">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Chrome Web Store"/>
     <img src="https://img.shields.io/badge/Rating-4.5/5-yellow?style=for-the-badge" alt="Rating 4.5/5"/>
     <img src="https://img.shields.io/badge/Users-1000+-green?style=for-the-badge" alt="Users 1000+"/>
   </a>
 </p>
 
-<img align="right" width="300" src="https://i.imgur.com/YckbSuU.png" alt="Dr-Buddy Screenshot"/>
+<img align="right" width="300" src="https://sagarchaurasia.dev-saga.in/assets/chrs-BC0852WH.png" alt="Dr-Buddy Screenshot"/>
 
-**Your Ultimate DSA Study Companion**
-
-Dr-Buddy helps developers maintain consistent practice in Data Structures & Algorithms through:
+**Dr-Buddy helps developers maintain consistent practice in Data Structures & Algorithms through:**
 
 - **Smart Reminders**: Customizable study schedule with intelligent notifications
 - **Progress Tracking**: Visual insights into your learning journey
 - **Resource Integration**: Quick access to LeetCode, HackerRank, and other platforms
-- **Study Streaks**: Gamification elements to keep motivation high
-- **Performance Analytics**: Track your improvement over time
-
-**Tech Stack**: JavaScript, HTML/CSS, Chrome Extension API, Local Storage
+**Tech Stack**: JavaScript, HTML/CSS, Chrome Extension API, Local Storage, TypeScript,React
 
 <br clear="both"/>
 
-### 💻 CodeFlow – Seamless Development Environment
+### 💻 Code-Complexity-Analyzer | Instantly Analyze Your Code Complexity
 <p align="left">
-  <a href="https://github.com/your-username/codeflow" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-  </a>
-  <a href="https://codeflow-demo.vercel.app" target="_blank">
+<!--   <a href="https://github.com/your-username/codeflow" target="_blank"> -->
+<!--   </a> -->
+  <a href="https://drbuddy.dev-saga.in" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
 
-<img align="right" width="300" src="https://i.imgur.com/YckbSuU.png" alt="CodeFlow Screenshot"/>
+<img align="right" width="300" src="https://sagarchaurasia.dev-saga.in/assets/db-BnpPZdZn.png" alt="CodeFlow Screenshot"/>
 
 A full-stack development environment designed to streamline your coding workflow:
 
@@ -156,29 +149,29 @@ A full-stack development environment designed to streamline your coding workflow
 - **Version Control**: Built-in Git integration for seamless commits and pushes
 - **Deployment Pipeline**: One-click deployment to Vercel, Netlify, or custom servers
 
-**Tech Stack**: React, Node.js, Socket.io, MongoDB, Docker
+**Tech Stack**: React, Node.js, Typescript, MongoDB, Docker,ExpressJs,Nginx,Cloudflare,Chrome-Api,Web-Packs
 
 <br clear="both"/>
 
-### 🔍 SearchSense – Smart Chrome Navigation
+### 🔍 Dashcraft – Dashboard Template
 <p align="left">
-  <a href="https://chrome.google.com/webstore/detail/your-extension-id" target="_blank">
+  <a href="https://dashcraft.manishlal.live" target="_blank">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Chrome Web Store"/>
     <img src="https://img.shields.io/badge/Rating-4.5/5-yellow?style=for-the-badge" alt="Rating 4.5/5"/>
   </a>
 </p>
 
-<img align="right" width="300" src="https://i.imgur.com/YckbSuU.png" alt="SearchSense Screenshot"/>
+<img align="right" width="300" src="https://sagarchaurasia.dev-saga.in/assets/chr-BI4vfEmd.png" alt="SearchSense Screenshot"/>
 
 SearchSense enhances your browsing experience with AI-powered search capabilities:
 
-- **Context-Aware Search**: Understands the content you're viewing
-- **Command Palette**: Quick actions with keyboard shortcuts
-- **Search History Analysis**: Learns from your patterns to improve results
-- **Tab Management**: Organize and navigate between tabs efficiently
-- **Custom Search Engines**: Configure your preferred search providers
+- **It is easy to build and integrate**
+- **professional-quality UI components**
+- **Allows users to copy the component**
+- **Analytics and Reporting**
+- **Live Demos**
 
-**Tech Stack**: JavaScript, Chrome Extension API, IndexedDB, TensorFlow.js
+**Tech Stack**: Complete Mern-stack(Collobration project),So my role is only Frontend
 
 <br clear="both"/>
 
