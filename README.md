@@ -149,7 +149,7 @@ A full-stack development environment designed to streamline your coding workflow
 - **Version Control**: Built-in Git integration for seamless commits and pushes
 - **Deployment Pipeline**: One-click deployment to Vercel, Netlify, or custom servers
 
-**Tech Stack**: React, Node.js, Typescript, MongoDB, Docker,ExpressJs,Nginx,Cloudflare,Chrome-Api,Web-Packs
+**Tech Stack**: React, Node.js, Typescript, MongoDB, Docker, ExpressJs, Nginx ,Cloudflare ,Chrome-Api ,Web-Packs
 
 <br clear="both"/>
 
@@ -238,30 +238,18 @@ Technology evolves rapidly, and so should developers. I embrace a growth mindset
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🌱 What I'm Currently Learning
 
-- Advanced TypeScript patterns and best practices
-- Serverless architecture with AWS Lambda
-- GraphQL API design
-- Microservices architecture
-- Web3 and blockchain development
 
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations, collaboration opportunities, and new challenges. If you're looking for a passionate developer to bring your ideas to life or simply want to connect, feel free to reach out!
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sagarchaurasia176@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/sagarchaurasia74" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/your-devto" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
 </p>
 
@@ -269,5 +257,4 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 <div align="center">
   <p>"The best error message is the one that never shows up." — Thomas Fuchs</p>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
